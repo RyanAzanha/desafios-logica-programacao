@@ -18,5 +18,5 @@ let listaNomes2 = ['Ryan', 'Simone', 'Daniel'];
 console.log(listaNomes2[1]);
 
 // Crie uma lista com 3 nomes e exiba no console apenas o último elemento.
-let listaNomes3 = ['Ryan', 'Simone', 'Daniel'];
+let listaNomes3 = ['Ryan', 'Simone', 'Ana'];
 console.log(listaNomes3[2]);
